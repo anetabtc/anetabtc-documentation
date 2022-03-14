@@ -35,6 +35,8 @@ Diagramme de protocole anetaBTC de frappe d’anetaBTC et de verrouillage de BTC
 
 Dans le cas d’anetaBTC, au lieu que les utilisateurs envoient Bitcoin à un dépositaire, il est envoyé à un coffre-fort qui est un contrat intelligent qui stocke le Bitcoin, frappe anetaBTC, puis envoie l’anetaBTC au portefeuille connecté.
 
+<!-- location of this picture changed and duplicate removed --> 
+
 ![Alt text](../../static/img/wrapping-assets/aneta-redeem-fr.png "Diagramme de protocole anetaBTC de rachat de BTC à l’aide de contrats intelligents Ergo non-dépositaires et non interactifs.")
 
 Pour échanger BTC, les utilisateurs initient simplement l’échange et renvoient leur anetaBTC au coffre-fort et le contrat intelligent libérera le Bitcoin à l’utilisateur lorsqu’il confirmera avec succès la réception d’anetaBTC.

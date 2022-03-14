@@ -44,26 +44,13 @@ Les délégants des pools de mise NETA1 et NETA2 gagneront un minimum de base de
 
 Les événements spéciaux pour les délégants à long terme NETA1 / NETA2 sont fréquents et substantiels, car les délégants à long terme facilitent la croissance du fonds de liquidité NETA et devraient être récompensés pour cela.
 
-[//]: # (The following 11 lines repeat themselves in the next section.)
-[//]: # (consider merging them for better reading)
-
-Événements de cadeaux actifs pour les délégataires NETA1 et NETA2:
-
-1. Déléguez pendant 2 mois consécutifs et larguez 500 cNETA pour chaque 1000 ADA délégués. (Actif - La date limite pour cet événement sera annoncée alors que NETA Pools, espérons-le, approche de la saturation)
-
-
-*Événements de cadeaux passés pour les délégataires NETA1 et NETA2:*
-
-Déléguez dans la première époque de l’ISO de liquidité (époque 318) et larguez 1000 cNETA pour chaque 1000 ADA délégués. (Date limite dépassée)
-
-
-
+<!-- Removed duplicate entries regarding the current active promotions -->
 
 ### Quels sont les événements promotionnels pour les délégants NETA1 et NETA2 actuellement actifs?
 
 Événements de cadeaux actifs pour les délégataires NETA1 et NETA2:
 
-1. Déléguez pendant 2 mois consécutifs et larguez 500 cNETA pour chaque 1000 ADA délégués. (Actif - La date limite pour cet événement sera annoncée bientôt)
+1. Déléguez pendant 2 mois consécutifs et larguez 500 cNETA pour chaque 1000 ADA délégués. (Actif - La date limite pour cet événement sera annoncée alors que NETA Pools, espérons-le, approche de la saturation)
 
 
 *Événements de cadeaux passés pour les délégataires NETA1 et NETA2:*
