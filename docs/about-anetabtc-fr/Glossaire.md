@@ -11,7 +11,7 @@ Le processus consistant à prendre un jeton sur une blockchain existante et à l
 
 **Contrat intelligent**: Comme tout contrat, les contrats intelligents établissent les termes d’un accord. Ce qui distingue les contrats intelligents des contrats traditionnels, c’est que les termes établis se présentent sous la forme d’un code fonctionnant sur une blockchain, par opposition à un contrat rédigé par un avocat.
 
-**Voûte**: Les voûtes sont responsables du pont anetaBTC . Ils maintiennent l’ancrage physique 1: 1 entre BTC et anetaBTC. Les coffres-forts reçoivent BTC pour la garde des utilisateurs et garantissent que BTC reste verrouillé pendant qu’anetaBTC existe.
+**Voûte**: Les voûtes sont responsables du pont anetaBTC . Ils maintiennent l’ancrage physique 1:1 entre BTC et anetaBTC. Les coffres-forts reçoivent BTC pour la garde des utilisateurs et garantissent que BTC reste verrouillé pendant qu’anetaBTC existe.
 
 **Émission**: Verrouillez BTC pour déverrouiller anetaBTC.
 

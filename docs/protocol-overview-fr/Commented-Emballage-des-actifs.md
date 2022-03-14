@@ -6,9 +6,9 @@ sidebar_position: 3
 Vous trouverez ci-dessous l’implémentation wBTC actuelle contrôlée par le dépositaire BitGo. Ces diagrammes sont référencés à partir du livre blanc original de wBTC, qui a été développé par nos partenaires, Kyber Network. 
 
 <!-- insert image here -->
-![Alt text](../../static/img/wrapping-assets/wrapping-assets-1-fr.png "Minting wrapped assets")
+![Alt text](../../static/img/wrapping-assets/wrapping-assets-1-fr.png "Émission d'actifs emballés")
 
-![Alt text](../../static/img/wrapping-assets/wrapping-assets-burn-fr.png "Burning wrapped assets")
+![Alt text](../../static/img/wrapping-assets/wrapping-assets-burn-fr.png "Brûlement d'actifs emballés")
 
 Diagramme de protocole wBTC montrant le processus de frappe et de gravure des jetons avec un dépositaire.
 
@@ -29,21 +29,15 @@ Dans le cas d’anetaBTC, Bitcoin est envoyé à un coffre-fort non dépositaire
 
 Vous trouverez ci-dessous la mise en œuvre d’anetaBTC qui est facilitée par des contrats intelligents non interactifs.
 
-![Alt text](../../static/img/wrapping-assets/wrapping-assets-aneta-mint-fr.png "Traditional wrapped assets")
+![Alt text](../../static/img/wrapping-assets/wrapping-assets-aneta-mint-fr.png "Actifs emballés traditionnels")
 
 Diagramme de protocole anetaBTC de frappe d’anetaBTC et de verrouillage de BTC à l’aide de contrats intelligents Ergo non déposidiques et non interactifs.
 
-![Alt text](../../static/img/wrapping-assets/aneta-redeem-fr.png "anetaBTC protocol diagram of redeeming BTC using non-custodial, non-interactive Ergo smart contracts.")
-
-
 Dans le cas d’anetaBTC, au lieu que les utilisateurs envoient Bitcoin à un dépositaire, il est envoyé à un coffre-fort qui est un contrat intelligent qui stocke le Bitcoin, frappe anetaBTC, puis envoie l’anetaBTC au portefeuille connecté.
 
+![Alt text](../../static/img/wrapping-assets/aneta-redeem-fr.png "Diagramme de protocole anetaBTC de rachat de BTC à l’aide de contrats intelligents Ergo non-dépositaires et non interactifs.")
+
 Pour échanger BTC, les utilisateurs initient simplement l’échange et renvoient leur anetaBTC au coffre-fort et le contrat intelligent libérera le Bitcoin à l’utilisateur lorsqu’il confirmera avec succès la réception d’anetaBTC.
-
-[//]: # (The below picture is a double of the previous one)
-[//]: # (consider removal and move the first redeem picture in it's place)
-
-![Alt text](../../static/img/wrapping-assets/aneta-redeem-fr.png)
 
 L’utilisateur demandera à émettre ou à utiliser anetaBTC et la base de données anetaBTC relaiera la fonction que l’utilisateur essaie d’exécuter et enverra cette demande au pont anetaBTC. De là, le pont anetaBTC enverra ces informations à anetaBTC-stats où les événements seront écrits dans la base de données officielle des événements anetaBTC et reliront les informations à anetaBTC-stats.
 

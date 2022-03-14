@@ -20,7 +20,7 @@ L’allocation totale de NETA du plus grand au plus petit est expliquée ci-dess
  * Équipe de base, conseillers, investisseurs providentiels: 25% (500 000 000 jetons)
  * Fondation Aneta : 5% (100 000 000 jetons)
  
-![Tokenomics](../../static/img/tokenomics/tokenomics.png "Tokenomics breakdown")
+![Tokenomics](../../static/img/tokenomics/tokenomics.png "Répartition du tokénomie")
 
 ## Distribution publique
 
