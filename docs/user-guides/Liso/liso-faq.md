@@ -104,6 +104,6 @@ NETA1 and NETA2 stake pools are live and accepting delegations.
 
 ### Is there a visual breakdown of the LISO?
 
-Yes!
+Yes.
 
 ![Liso](../../../static/img/liso/liso.png "LISO Explanation")
