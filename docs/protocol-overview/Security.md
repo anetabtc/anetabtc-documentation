@@ -9,9 +9,9 @@ All versions will be open sourced, use smart contracts, and have full documentat
 
 Currently, we are preparing to launch V1 public testnet on Ergo. 
 
-V1 is under our governance and is not decentralized. For v1, there is a public public bitcoin address under our governance. People send it using the wallet address when they mint and our backend sends it out programmatically during redemption.
+V1 is under our governance and is not decentralized. For v1, there is a public bitcoin address under our governance. For minting, users send BTC to the provided wallet address and for redeeming, our backend programmatically sends BTC to the BTC address provided by the user.
 
-V1 has one wallet that you send BTC to and the offchain code programmatically verifies the BTC deposit transaction and create and relay matching Ergo transaction issuing eBTC from smart contract to the recipient address. Similar to Rosen but instead of multiple guards it’s just aneta verifying the transactions. This is the most centralized version and will become fully decentralized as we transition to v3 implementation. 
+V1 has one wallet that you send BTC to and the offchain code programmatically verifies the BTC deposit transaction and relays the matching Ergo transaction from the smart contract to the recipient address. Similar to the Rosen bridge, but instead of multiple guards, it's just anetaBTC verifying the transactions. This is the most centralized version and will become fully decentralized as we transition to v3 implementation. 
 
 V2 will utilize the Rosen bridge architecture and be under governance of guardians and have assistance from watchers, which consists of well-known projects in the ecosystem and a multi-signature schematic. 
 
