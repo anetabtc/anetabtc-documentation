@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Litepaper'
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Litepaper
@@ -9,4 +9,6 @@ AnetaBTC is a fully on-chain, decentralized protocol that allows Bitcoin to be d
 
 Wrapped Bitcoin has the potential to provide the Ergo and Cardano platforms essential liquidity required for most all DeFi applications by transferring the full value of Bitcoin on a 1:1 basis — the total current market capitalization of Bitcoin exceeds $1.1 trillion, while the total value of wrapped Bitcoin on the Ethereum blockchain nears $20 billion.
 
-Read the full Litepaper here: https://medium.com/@anetaBTC?p=171f29b3276a
+Read the full Litepaper [here](https://medium.com/@anetaBTC/anetabtc-litepaper-v1-0-171f29b3276a).
+
+Read the full Litepaper in other languages [here](https://linktr.ee/anetabtc.translated).

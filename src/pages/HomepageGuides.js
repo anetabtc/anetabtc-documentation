@@ -6,11 +6,20 @@ import ExternalArrow from '../../static/img/external-arrow.svg'
 
 const Guides = [
   {
-    title: 'About anetaBTC',
-    link:  '/docs/about-anetabtc/Introduction',
+    title: 'Get Started',
+    link:  '/docs/get-started/Introduction',
     description: (
       <>
-        Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
+        Learn about anetaBTC, an on-chain and open-source wrapping protocol on Cardano and Ergo.
+      </>
+    ),
+  },
+  {
+    title: 'anetaBTC Protocol',
+    link: '/docs/protocol-overview/introduction',
+    description: (
+      <>
+        Learn about all versions of anetaBTC and the security architecture for each protocol.
       </>
     ),
   },
@@ -19,16 +28,7 @@ const Guides = [
     link:  '/docs/user-guides/Liso/liso-home',
     description: (
       <>
-        Learn about LISO, our tokenomics, and benefits of the NETA and cNETA tokens.
-      </>
-    ),
-  },
-  {
-    title: 'Protocol overview',
-    link: '/docs/protocol-overview/introduction',
-    description: (
-      <>
-        Learn about all aspects of our architecture including minting, redeeming, burning, and transferring.
+        Learn about Minting, Redeeming, and Use Cases for cBTC and eBTC.
       </>
     ),
   },

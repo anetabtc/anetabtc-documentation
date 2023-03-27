@@ -10,7 +10,7 @@ const Guides = [
         link: 'docs/about-anetabtc',
         description: (
             <>
-                Learn about anetaBTC, an on-chain wrapped protocol on Ergo and Cardano. Learn about our mission and key principles.
+                Learn about all versions of anetaBTC and the security architecture for each protocol.
             </>
         ),
     },
