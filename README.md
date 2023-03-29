@@ -1,6 +1,7 @@
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Any changes to main branch will trigger gh-pages build and deploy.
 
 ### Installation
 
