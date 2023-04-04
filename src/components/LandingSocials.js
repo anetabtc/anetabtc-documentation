@@ -37,7 +37,7 @@ const Socials = [
   },
   {
     title: 'Discord',
-    link: 'https://discord.gg/anetabtc',
+    link: 'https://discord.com/invite/S85CKeyHTc',
     Icon:  require('../../static/img/discord.svg').default,
     description: (
       <>

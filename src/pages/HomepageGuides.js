@@ -16,7 +16,7 @@ const Guides = [
   },
   {
     title: 'anetaBTC Protocol',
-    link: '/docs/protocol-overview/introduction',
+    link: '/docs/protocol-overview/open-source',
     description: (
       <>
         Learn about all versions of anetaBTC and the security architecture for each protocol.
